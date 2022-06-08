@@ -1,3 +1,3 @@
-# react-kbs4yy
+# react-combine-reducers
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-kbs4yy)
+Create multiple reducers and combine them (and call them using a combineReducers function)
